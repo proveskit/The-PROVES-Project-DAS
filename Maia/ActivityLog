@@ -19,3 +19,514 @@
 09 17 2025; 10:40:33AM	Project Data Saved To File
 09 17 2025; 10:40:33AM	Project Data Saved To File
 09 17 2025; 10:41:02AM	Closed Project C:\Users\SSL\Documents\GitHub\The-PROVES-Project-DAS\Maia\
+09 17 2025; 13:02:55PM	Activity Log Started
+09 17 2025; 13:02:55PM	Opened Project C:\Users\SSL\Documents\GitHub\The-PROVES-Project-DAS\Maia\
+09 17 2025; 13:09:23PM	Processing Requirement 4.3-1:	Return Status :  Not Run
+
+=====================
+No Project Data Available
+=====================
+
+=============== End of Requirement 4.3-1 ===============
+09 17 2025; 13:09:25PM	Processing Requirement 4.3-2: Return Status : Passed
+
+=====================
+No Project Data Available
+=====================
+
+=============== End of Requirement 4.3-2 ===============
+09 17 2025; 13:10:00PM	Processing Requirement 4.5-1:	Return Status :  Passed
+
+==============
+Run Data
+==============
+
+**INPUT**
+
+	Space Structure Name = PROVES - Maia
+	Space Structure Type = Payload
+	Perigee Altitude = 413.000 (km)
+	Apogee Altitude = 422.000 (km)
+	Inclination = 51.640 (deg)
+	RAAN = 0.000 (deg)
+	Argument of Perigee = 0.000 (deg)
+	Mean Anomaly = 0.000 (deg)
+	Final Area-To-Mass Ratio = 0.0097 (m^2/kg)
+	Start Year = 2026.333 (yr)
+	Initial Mass = 1.158 (kg)
+	Final Mass = 1.158 (kg)
+	Duration = 1.000 (yr)
+	Station-Kept = False
+	Abandoned = True
+	Long-Term Reentry = True
+
+**OUTPUT**
+
+	Collision Probability = 5.9216E-09
+	Returned Message: Normal Processing
+	Date Range Message: Normal Date Range
+	Status = Pass
+
+==============
+
+=============== End of Requirement 4.5-1 ===============
+
+09 17 2025; 13:10:13PM	Project Data Saved To File
+09 17 2025; 13:10:17PM	Requirement 4.5-2:  Compliant
+
+=============== End of Requirement 4.5-2 ===============
+
+09 17 2025; 13:10:18PM	Processing Requirement 4.6	Return Status :  Passed
+
+==============
+Project Data
+==============
+
+**INPUT**
+
+	Space Structure Name = PROVES - Maia
+	Space Structure Type = Payload
+
+	Perigee Altitude = 413.000000 (km)
+	Apogee Altitude = 422.000000 (km)
+	Inclination = 51.640000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Mean Anomaly = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.009706 (m^2/kg)
+	Start Year = 2026.333000 (yr)
+	Initial Mass = 1.157600 (kg)
+	Final Mass = 1.157600 (kg)
+	Duration = 1.000000 (yr)
+	Station Kept = False
+	Abandoned = True
+	PMD Perigee Altitude = -1.000000 (km)
+	PMD Apogee Altitude = -1.000000 (km)
+	PMD Inclination = 0.000000 (deg)
+	PMD RAAN = 0.000000 (deg)
+	PMD Argument of Perigee = 0.000000 (deg)
+	PMD Mean Anomaly = 0.000000 (deg)
+	Long-Term Reentry = True
+
+**OUTPUT**
+
+	Suggested Perigee Altitude = 413.000000 (km)
+	Suggested Apogee Altitude = 422.000000 (km)
+	Returned Error Message = Reentry during mission (no PMD req.).
+
+	Released Year = 2026 (yr)
+	Requirement = 61
+	Compliance Status = Pass
+
+==============
+
+=============== End of Requirement 4.6 ===============
+09 17 2025; 13:11:33PM	*********Processing Requirement 4.7-1
+	Return Status :  Passed
+
+***********INPUT****
+ Item Number = 1 
+
+name = PROVES - Maia
+quantity = 1
+parent = 0
+materialID = 7
+type = Box
+Aero Mass = 1.157600
+Thermal Mass = 1.157600
+Diameter/Width = 0.108000
+Length = 0.113500
+Height = 0.108000
+
+name = Primary Structure
+quantity = 1
+parent = 1
+materialID = 7
+type = Box
+Aero Mass = 0.092000
+Thermal Mass = 0.092000
+Diameter/Width = 0.100000
+Length = 0.113500
+Height = 0.100000
+
+name = Flight Controller Board
+quantity = 1
+parent = 1
+materialID = 23
+type = Flat Plate
+Aero Mass = 0.044600
+Thermal Mass = 0.044600
+Diameter/Width = 0.090000
+Length = 0.090000
+
+name = Battery Pack
+quantity = 1
+parent = 1
+materialID = 23
+type = Flat Plate
+Aero Mass = 0.228600
+Thermal Mass = 0.044600
+Diameter/Width = 0.090000
+Length = 0.090000
+
+name = Battery Cells
+quantity = 4
+parent = 4
+materialID = 59
+type = Cylinder
+Aero Mass = 0.046000
+Thermal Mass = 0.046000
+Diameter/Width = 0.018000
+Length = 0.065000
+
+name = M2.5 Fastener
+quantity = 44
+parent = 1
+materialID = 59
+type = Cylinder
+Aero Mass = 0.000300
+Thermal Mass = 0.000300
+Diameter/Width = 0.002380
+Length = 0.010000
+
+name = Card Bracket
+quantity = 6
+parent = 1
+materialID = 7
+type = Flat Plate
+Aero Mass = 0.004400
+Thermal Mass = 0.004400
+Diameter/Width = 0.020000
+Length = 0.088000
+
+name = Solar Panel
+quantity = 5
+parent = 1
+materialID = 23
+type = Flat Plate
+Aero Mass = 0.022300
+Thermal Mass = 0.002500
+Diameter/Width = 0.070000
+Length = 0.090000
+
+name = Solar Cell
+quantity = 30
+parent = 8
+materialID = 23
+type = Flat Plate
+Aero Mass = 0.003300
+Thermal Mass = 0.003300
+Diameter/Width = 0.018000
+Length = 0.042000
+
+name = Antenna Board
+quantity = 1
+parent = 1
+materialID = 23
+type = Flat Plate
+Aero Mass = 0.042900
+Thermal Mass = 0.042700
+Diameter/Width = 0.100000
+Length = 0.100000
+
+name = Antenna
+quantity = 2
+parent = 10
+materialID = 59
+type = Flat Plate
+Aero Mass = 0.000100
+Thermal Mass = 0.000100
+Diameter/Width = 0.012700
+Length = 0.177800
+
+name = L-Brackets
+quantity = 4
+parent = 1
+materialID = 7
+type = Flat Plate
+Aero Mass = 0.002400
+Thermal Mass = 0.002400
+Diameter/Width = 0.018000
+Length = 0.035000
+
+name = Satellite Foot
+quantity = 8
+parent = 1
+materialID = 50
+type = Box
+Aero Mass = 0.002100
+Thermal Mass = 0.002100
+Diameter/Width = 0.014000
+Length = 0.031000
+Height = 0.007000
+
+name = M2.5 and Locknut
+quantity = 16
+parent = 1
+materialID = 59
+type = Cylinder
+Aero Mass = 0.001000
+Thermal Mass = 0.001000
+Diameter/Width = 0.004000
+Length = 0.010000
+
+name = Wire Harnessing
+quantity = 1
+parent = 1
+materialID = 19
+type = Box
+Aero Mass = 0.170000
+Thermal Mass = 0.170000
+Diameter/Width = 0.028000
+Length = 0.028000
+Height = 0.028000
+
+name = Payload PCB
+quantity = 1
+parent = 1
+materialID = 23
+type = Flat Plate
+Aero Mass = 0.097200
+Thermal Mass = 0.044600
+Diameter/Width = 0.090000
+Length = 0.090000
+
+name = MOSAIC Payload
+quantity = 1
+parent = 16
+materialID = 23
+type = Flat Plate
+Aero Mass = 0.044600
+Thermal Mass = 0.044600
+Diameter/Width = 0.090000
+Length = 0.090000
+
+name = Tungsten Shielding
+quantity = 1
+parent = 16
+materialID = 67
+type = Flat Plate
+Aero Mass = 0.008000
+Thermal Mass = 0.008000
+Diameter/Width = 0.020000
+Length = 0.020000
+
+name = Ballast
+quantity = 2
+parent = 1
+materialID = 39
+type = Box
+Aero Mass = 0.140000
+Thermal Mass = 0.140000
+Diameter/Width = 0.090000
+Length = 0.090000
+Height = 0.002200
+
+**************OUTPUT****
+Item Number = 1 
+
+name = PROVES - Maia
+Demise Altitude = 77.999388
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Primary Structure
+Demise Altitude = 77.312393
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Flight Controller Board
+Demise Altitude = 76.878773
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Battery Pack
+Demise Altitude = 76.973086
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Battery Cells
+Demise Altitude = 72.070467
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = M2.5 Fastener
+Demise Altitude = 77.216450
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Card Bracket
+Demise Altitude = 77.661013
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Solar Panel
+Demise Altitude = 77.940288
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Solar Cell
+Demise Altitude = 77.392509
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Antenna Board
+Demise Altitude = 77.079469
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Antenna
+Demise Altitude = 77.079469
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = L-Brackets
+Demise Altitude = 77.566961
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Satellite Foot
+Demise Altitude = 77.806471
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = M2.5 and Locknut
+Demise Altitude = 76.453291
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Wire Harnessing
+Demise Altitude = 70.469970
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Payload PCB
+Demise Altitude = 76.946381
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = MOSAIC Payload
+Demise Altitude = 75.746544
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = Tungsten Shielding
+Demise Altitude = 0.000000
+Debris Casualty Area = 0.305714
+Impact Kinetic Energy = 1.436791
+
+*************************************
+name = Ballast
+Demise Altitude = 77.804307
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+
+=============== End of Requirement 4.7-1 ===============
+09 17 2025; 13:11:33PM	Project Data Saved To File
+09 17 2025; 13:13:34PM	Science and Engineering - Apogee/Perigee History for a Given Orbit
+
+**INPUT**
+
+	Perigee Altitude = 413.000000 (km)
+	Apogee Altitude = 422.000000 (km)
+	Inclination = 51.640000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Mean Anomaly = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.009770 (m^2/kg)
+	Start Year = 2026.333000 (yr)
+	Integration Time = 1.000000 (yr)
+
+**OUTPUT**
+
+	Plot
+09 17 2025; 13:13:50PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.333000 (yr)
+	Perigee Altitude = 413.000000 (km)
+	Apogee Altitude = 422.000000 (km)
+	Inclination = 51.640000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.009770 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 0.654360 (yr)
+	Time Spent in LEO during Lifetime  = 0.654360 (yr)
+	Last year of Propagation = 2026 (yr)
+	Returned Error Message: Object reentered
+09 17 2025; 13:14:13PM	Science and Engineering - Apogee/Perigee History for a Given Orbit
+
+**INPUT**
+
+	Perigee Altitude = 413.000000 (km)
+	Apogee Altitude = 422.000000 (km)
+	Inclination = 51.640000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Mean Anomaly = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.009770 (m^2/kg)
+	Start Year = 2026.333000 (yr)
+	Integration Time = 1.000000 (yr)
+
+**OUTPUT**
+
+	Plot
+09 17 2025; 13:14:38PM	Science and Engineering - Apogee/Perigee History for a Given Orbit
+
+**INPUT**
+
+	Perigee Altitude = 413.000000 (km)
+	Apogee Altitude = 422.000000 (km)
+	Inclination = 51.640000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Mean Anomaly = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.014804 (m^2/kg)
+	Start Year = 2026.333000 (yr)
+	Integration Time = 1.000000 (yr)
+
+**OUTPUT**
+
+	Plot
+09 17 2025; 13:14:58PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.333000 (yr)
+	Perigee Altitude = 413.000000 (km)
+	Apogee Altitude = 422.000000 (km)
+	Inclination = 51.640000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.014804 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 0.418900 (yr)
+	Time Spent in LEO during Lifetime  = 0.417945 (yr)
+	Last year of Propagation = 2026 (yr)
+	Returned Error Message: Object reentered
+09 17 2025; 13:15:46PM	Project Data Saved To File
