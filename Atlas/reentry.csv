@@ -1,2 +1,23 @@
 Reentry Data
 Row Num,Name,Parent,Qty,Material,Body Type,Thermal Mass,Diameter/Width,Length,Height,Status,Risk,Demise Alt,Total DCA,KE
+1,PROVES - Atlas,0,1,Aluminum 5052,Box,1.16,0.108,0.1135,0.108,Compliant,'0',,0.00,
+2,Primary Structure,1,1,Aluminum 5052,Box,0.092,0.1,0.1135,0.1,,,77.3,0.00,0.00
+3,Flight Controller Board,1,1,Fiberglass,Flat Plate,0.0446,0.09,0.09,,,,76.9,0.00,0.00
+4,Battery Pack,1,1,Fiberglass,Flat Plate,0.0446,0.09,0.09,,,,77.0,0.00,0.00
+5,Battery Cells,4,4,Steel AISI 316,Cylinder,0.046,0.018,0.065,,,,72.1,0.00,0.00
+6,M2.5 Fastener,1,44,Steel AISI 316,Cylinder,0.0003,0.00238,0.01,,,,77.2,0.00,0.00
+7,Card Bracket,1,6,Aluminum 5052,Flat Plate,0.0044,0.02,0.088,,,,77.7,0.00,0.00
+8,Solar Panel,1,5,Fiberglass,Flat Plate,0.0025,0.07,0.09,,,,77.9,0.00,0.00
+9,Solar Cell,8,30,Fiberglass,Flat Plate,0.0033,0.018,0.042,,,,77.4,0.00,0.00
+10,Antenna Board,1,1,Fiberglass,Flat Plate,0.0427,0.1,0.1,,,,77.1,0.00,0.00
+11,Antenna,10,2,Steel AISI 316,Flat Plate,0.0001,0.0127,0.1778,,,,77.1,0.00,0.00
+12,L-Brackets,1,4,Aluminum 5052,Flat Plate,0.0024,0.018,0.035,,,,77.6,0.00,0.00
+13,Satellite Foot,1,8,Polyamide,Box,0.0021,0.014,0.031,0.007,,,77.8,0.00,0.00
+14,M2.5 and Locknut,1,16,Steel AISI 316,Cylinder,0.001,0.004,0.01,,,,76.4,0.00,0.00
+15,Wire Harnessing,1,1,Copper Alloy,Box,0.17,0.028,0.028,0.028,,,70.5,0.00,0.00
+16,Payload PCB,1,1,Fiberglass,Flat Plate,0.0446,0.09,0.09,,,,76.9,0.00,0.00
+17,Torque Rod (Copper),1,2,Copper Alloy,Cylinder,0.004,0.005,0.07,,,,77.4,0.00,0.00
+18,Torque Rod 1 (Core),1,1,Iron,Cylinder,0.01117,0.005,0.07,,,,74.6,0.00,0.00
+19,Torque Rod 2 (Core),1,1,Iron,Cylinder,0.0698,0.0127,0.07,,,,68.7,0.00,0.00
+20,Magnetorquer Air Coil,1,1,Copper Alloy,Box,0.2,0.02,0.0695,0.016,,,71.7,0.00,0.00
+21,Spresense Camera,1,1,Fiberglass,Flat Plate,0.01,0.04,0.04,,,,77.1,0.00,0.00
