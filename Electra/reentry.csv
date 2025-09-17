@@ -15,4 +15,4 @@ Row Num,Name,Parent,Qty,Material,Body Type,Thermal Mass,Diameter/Width,Length,He
 13,Satellite Foot,1,8,Polyamide,Box,0.0021,0.014,0.031,0.007,,,77.8,0.00,0.00
 14,M2.5 and Locknut,1,16,Steel AISI 316,Cylinder,0.001,0.004,0.01,,,,76.8,0.00,0.00
 15,Wire Harnessing,1,1,Copper Alloy,Box,0.17,0.028,0.028,0.028,,,71.8,0.00,0.00
-16,Ballast,1,1,Steel AISI 316,Box,1.23,0.09,0.09,0.02,,,60.4,0.00,0.00
+16,Ballast,1,1,Lead Element,Box,1.23,0.09,0.09,0.02,,,76.9,0.00,0.00
