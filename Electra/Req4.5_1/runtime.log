@@ -1,0 +1,62 @@
+ ====================================================================
+         This is a generic runtime log of operational details.
+         Should an error occur, this may contain information
+         needed to debug, and should be submitted to the
+         appropriate NASA Orbital Debris point of contact.
+ ====================================================================
+ 2025/09/17  11:59:44    ORDEM 3.2.: Start Time
+     ----------begin input file--------------
+     inputfilename=
+ C:\Users\SSL\Documents\GitHub\The-PROVES-Project-DAS\Electra\Req4.5_1\ORDEM.IN
+     assesstype=    1
+     obsyear=   2027
+     orbit_type=    1
+     orbit_hperi=   283.065000000000     
+     orbit_hapo=   283.433000000000     
+     sc_a=   6661.38400000000     
+     sc_e=  2.762188758372097E-005
+     sc_i=   51.6200000000000     
+     sc_ap=  -1.00000000000000     
+     sc_raan=  -1.00000000000000     
+     fpath_igloo_sc= data\IGLOO_30x30x2.SIG
+     sensor_lat=  0.000000000000000E+000
+     sensor_az=  0.000000000000000E+000
+     sensor_el=  0.000000000000000E+000
+     fpath_igloo_tel=
+     ----------end input file--------------
+*
+*
+*
+*
+*
+*
+*
+     Begin spacecraft-mode calculations...
+     SPACECRAFT IGLOO FILE:data\IGLOO_30x30x2.SIG
+     VERSIONING =      2459591
+     SOBOL7[NSOBOL,NDIM]=           7      131071
+     N_IGELEMS[SC,TEL]=         744           0
+     N_GEO_POP[MM,ECC,INC]=    220     25     26
+     N_GEO_POP[HPERI,ECC]=     72    287     74
+     N_POPS[LEO,GEO]=   55    3
+     LEO N_DEB[TYPES,SIZES]=    5   11
+     GEO N_DEB[TYPES,SIZES]=    1    3
+     ENTERING SC_CALCS...
+     --> Read          744  igloo elements.
+     Performing igloo/pop calcs...
+           LEO to GTO             0.0%
+           LEO to GTO            10.0%
+           LEO to GTO            20.0%
+           LEO to GTO            30.0%
+           LEO to GTO            40.0%
+           LEO to GTO            50.0%
+           LEO to GTO            60.0%
+           LEO to GTO            70.0%
+           LEO to GTO            80.0%
+           LEO to GTO            90.0%
+           LEO to GTO           100.0%
+     Igloo/pop calcs complete.
+     Creating plot data files...
+     Plot data files created.
+ 2025/09/17  12:00:02    ORDEM 3.2.: End Time
+
