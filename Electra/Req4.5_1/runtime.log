@@ -4,18 +4,18 @@
          needed to debug, and should be submitted to the
          appropriate NASA Orbital Debris point of contact.
  ====================================================================
- 2025/11/13  12:25:52    ORDEM 3.2.: Start Time
+ 2026/03/19  19:47:31    ORDEM 3.2.: Start Time
      ----------begin input file--------------
      inputfilename=
- D:\Github Projects\The-PROVES-Project-DAS\Electra\Req4.5_1\ORDEM.IN
+ C:\Users\SSL\Documents\GitHub\The-PROVES-Project-DAS\Electra\Req4.5_1\ORDEM.IN
      assesstype=    1
-     obsyear=   2027
+     obsyear=   2026
      orbit_type=    1
-     orbit_hperi=   283.065000000000     
-     orbit_hapo=   283.433000000000     
-     sc_a=   6661.38400000000     
-     sc_e=  2.762188758372097E-005
-     sc_i=   51.6200000000000     
+     orbit_hperi=   413.000000000000     
+     orbit_hapo=   422.000000000000     
+     sc_a=   6795.63500000000     
+     sc_e=  6.621897732882946E-004
+     sc_i=   51.6400000000000     
      sc_ap=  -1.00000000000000     
      sc_raan=  -1.00000000000000     
      fpath_igloo_sc= data\IGLOO_30x30x2.SIG
@@ -58,5 +58,5 @@
      Igloo/pop calcs complete.
      Creating plot data files...
      Plot data files created.
- 2025/11/13  12:26:12    ORDEM 3.2.: End Time
+ 2026/03/19  19:48:05    ORDEM 3.2.: End Time
 
