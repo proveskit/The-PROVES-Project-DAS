@@ -17,5 +17,5 @@ Row Num,Name,Parent,Qty,Material,Body Type,Thermal Mass,Diameter/Width,Length,He
 15,Wire Harnessing,1,1,Copper Alloy,Box,0.17,0.028,0.028,0.028,,,70.5,0.00,0.00
 16,Payload PCB,1,1,Fiberglass,Flat Plate,0.0446,0.09,0.09,,,,76.9,0.00,0.00
 17,MOSAIC Payload,16,1,Fiberglass,Flat Plate,0.0446,0.09,0.09,,,,75.7,0.00,0.00
-18,Tungsten Shielding,16,1,Tungsten,Flat Plate,0.001,0.1,0.1,,,,0.0,0.43,0.00
+18,Radiation Shielding,16,1,Lead Element,Flat Plate,0.001,0.1,0.1,,,,76.9,0.00,0.00
 19,Ballast,1,2,Lead Element,Box,0.14,0.09,0.09,0.0022,,,77.8,0.00,0.00
